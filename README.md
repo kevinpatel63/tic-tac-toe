@@ -25,3 +25,6 @@ MIT
 
 # Feedbacks
 --> If you have any feedback or any suggestion regarding this project, please reach out to me at kevinpatel98792@gmail.com
+
+# Acknowledgement
+- W3School
