@@ -20,3 +20,7 @@ Kevin Patel
 
 Acknowledgements
 W3School
+
+Hi, I'm Kevin Patel! 👋
+Mini Project - Tic Tac Toe Game
+-->Hosted project link --> https://kevinpatel-tic-tac-
