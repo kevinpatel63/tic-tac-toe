@@ -14,7 +14,6 @@ CSS3
 JAVASCRIPT
 
 Project Demo
-https://mansitagadiya-portfolio.netlify.app/
 
 Authors
 Kevin Patel
